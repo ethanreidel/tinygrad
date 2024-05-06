@@ -54,3 +54,6 @@ weights
 *.lprof
 *.pkl
 site/
+bin/
+lib/
+pyvenv.cfg
